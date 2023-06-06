@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158659331655",
+    "project_id": "grace-finance-432ac",
+    "storage_bucket": "grace-finance-432ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158659331655:android:a1c4ffc4bc81b582fe1362",
+        "android_client_info": {
+          "package_name": "com.example.gracefinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158659331655-68iq4jvt3m1dqt96tr65aq2qgqlsdch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwoMBcE8C9oqPl5qrxy432XdDgG84GVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158659331655-68iq4jvt3m1dqt96tr65aq2qgqlsdch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
